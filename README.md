@@ -1,4 +1,4 @@
-### Bem-Vindo sou eu Karen Mickaele
+### Opa! sou eu Karen Mickaele
 
 [![instragram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mickaeledf)
 
@@ -13,7 +13,7 @@
   
 </div><br/>
 
-Estudande em Ciencias da computação, 5º semestre. Atualmente trabalhando como Bartender, migrando de carreira.
+<p>Estudande em Ciencias da computação, 5º semestre. Atualmente trabalhando como Bartender, migrando de carreira.</p>
 
 
 
