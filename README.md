@@ -2,7 +2,7 @@
 
 [![instragram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mickaeledf)
 
-![Mickaeledf GitHub stats](https://github-readme-stats.vercel.app/api?username=Mickaeledf&show_icons=true&theme=tokyonight)
+[![Mickaeledf GitHub stats](https://github-readme-stats.vercel.app/api?username=Mickaeledf&show_icons=true&theme=tokyonight)
 
 ## Tecnologias em aprendizado 
 <div style="display: inline_block"><br/>
@@ -13,7 +13,7 @@
   
 </div><br/>
 
-<p>Estudande em Ciencias da computação, 5º semestre. Atualmente trabalhando como Bartender, migrando de carreira.</p>
+<p>Estudande em Ciencias da computação, 7º semestre. Atualmente trabalhando como Bartender, migrando de carreira de T.I.</p>
 
 
 
